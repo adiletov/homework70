@@ -1,0 +1,11 @@
+.img{
+    width: 200px;
+}
+.movieBlock{
+    display: flex;
+    width: 50%;
+    padding: 30px;
+}
+.movieInfo{
+    padding: 30px;
+}
